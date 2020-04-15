@@ -1,0 +1,5 @@
+﻿  ConsoleApplication34.cpp
+e:\бгуир\ооп\лаба2\consoleapplication34\header.h(112): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+e:\бгуир\ооп\лаба2\consoleapplication34\header.h(165): warning C4297: Array::~Array: ожидается, что функция не будет выдавать исключения, но она это делает
+  e:\бгуир\ооп\лаба2\consoleapplication34\header.h(165): note: деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+  ConsoleApplication34.vcxproj -> E:\БГУИР\ООП\Лаба2\Debug\ConsoleApplication34.exe
